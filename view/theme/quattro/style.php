@@ -23,7 +23,7 @@
 		echo "
 			html { width: 100%; margin:0px; padding:0px; }
 			body {
-				margin: 50px auto;
+				margin: 120px auto;
 				width: 900px;
 			}
 		";
